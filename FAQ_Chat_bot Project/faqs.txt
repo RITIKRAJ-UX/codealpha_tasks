@@ -1,0 +1,215 @@
+What is NLP?
+NLP stands for Natural Language Processing.
+
+What is Machine Learning?
+Machine Learning allows systems to learn from data.
+
+What is a chatbot?
+A chatbot is a program that communicates with users using text.
+
+What is Python?
+Python is a beginner-friendly, high-level programming language used for general-purpose programming.
+
+Why is Python easy to learn?
+Python uses simple English-like syntax and avoids complex symbols, making it easy for beginners.
+
+What are the advantages of Python?
+Python is easy to read, portable, open source, and has a large collection of libraries.
+
+How do you install Python?
+Python can be installed by downloading it from the official website python.org.
+
+What is IDLE?
+IDLE is Python’s built-in development environment used to write and run programs.
+
+What is a Python script?
+A Python script is a file with .py extension containing Python code.
+
+How do you write your first Python program?
+You can write your first program using print("Hello World").
+
+What is a variable in Python?
+A variable is used to store data values in memory.
+
+How do you declare a variable?
+Python variables are created automatically when a value is assigned.
+
+What are data types in Python?
+Data types define the type of data such as integer, float, string, and boolean.
+
+What is an integer?
+An integer is a whole number without decimals.
+
+What is a float?
+A float is a number with decimal values.
+
+What is a string?
+A string is a sequence of characters enclosed in quotes.
+
+What is type casting?
+Type casting converts one data type into another.
+
+What are operators in Python?
+Operators are symbols used to perform operations like addition, comparison, and logic.
+
+What are arithmetic operators?
+Arithmetic operators perform mathematical operations like +, -, *, and /.
+
+What are relational operators?
+Relational operators compare values and return true or false.
+
+What are logical operators?
+Logical operators are used to combine conditions such as and, or, and not.
+
+What is input function?
+The input() function is used to take input from the user.
+
+What is output in Python?
+Output is displayed using the print() function.
+
+What are conditional statements?
+Conditional statements execute code based on conditions.
+
+What is if statement?
+The if statement executes code when a condition is true.
+
+What is if-else statement?
+The if-else statement executes one block if condition is true and another if false.
+
+What are loops?
+Loops repeat a block of code multiple times.
+
+What is for loop?
+The for loop iterates over a sequence like a list or string.
+
+What is while loop?
+The while loop executes as long as a condition is true.
+
+What is break statement?
+Break statement terminates the loop.
+
+What is continue statement?
+Continue statement skips the current iteration.
+
+What are lists in Python?
+Lists are ordered and mutable collections of elements.
+
+How do you create a list?
+A list is created using square brackets.
+
+What are tuples?
+Tuples are ordered but immutable collections.
+
+What are dictionaries?
+Dictionaries store data in key-value pairs.
+
+What is a set?
+A set is an unordered collection of unique elements.
+
+What is slicing?
+Slicing is used to extract a part of a sequence.
+
+What is a function?
+A function is a block of reusable code.
+
+How do you define a function?
+A function is defined using the def keyword.
+
+What are arguments?
+Arguments are values passed to functions.
+
+What is return statement?
+Return sends a value back from a function.
+
+What is recursion?
+Recursion is when a function calls itself.
+
+What is a module?
+A module is a file containing Python code.
+
+What is import statement?
+Import statement is used to use modules in a program.
+
+What is a package?
+A package is a collection of modules.
+
+What is file handling?
+File handling allows reading and writing files.
+
+What are file modes?
+File modes include read, write, and append.
+
+What is exception handling?
+Exception handling manages runtime errors.
+
+What is try-except block?
+Try-except handles errors gracefully.
+
+What is finally block?
+Finally block executes regardless of exception.
+
+What is object-oriented programming?
+OOP is a programming style based on objects and classes.
+
+What is a class?
+A class is a blueprint for creating objects.
+
+What is an object?
+An object is an instance of a class.
+
+What is constructor?
+A constructor initializes object data.
+
+What is inheritance?
+Inheritance allows one class to use another class’s properties.
+
+What is polymorphism?
+Polymorphism allows one function to have many forms.
+
+What is encapsulation?
+Encapsulation protects data by restricting access.
+
+What is abstraction?
+Abstraction hides internal details.
+
+What is lambda function?
+Lambda is a small anonymous function.
+
+What is Python used for automation?
+Python automates repetitive tasks.
+
+What is Python used for data analysis?
+Python analyzes data using libraries like Pandas.
+
+What is Python used for AI?
+Python is used in AI due to its rich libraries.
+
+What is debugging?
+Debugging finds and fixes program errors.
+
+What is commenting?
+Comments explain code and are ignored by Python.
+
+How do you write comments?
+Comments are written using the hash symbol.
+
+What is indentation?
+Indentation defines code blocks in Python.
+
+Why is indentation important?
+Incorrect indentation causes errors in Python.
+
+What is pip?
+pip installs Python libraries.
+
+What are libraries?
+Libraries are pre-written code modules.
+
+What is virtual environment?
+Virtual environment isolates project dependencies.
+
+What is Python scripting?
+Scripting automates simple tasks.
+
+Is Python good for beginners?
+Yes, Python is one of the best languages for beginners.
